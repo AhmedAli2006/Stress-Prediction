@@ -19,3 +19,11 @@ The Raw dataset is used to predict the stress level. But the time logs for diffe
 The Preprocessing.ipynp notebook contains the pre-processing codes and gives you training and evaluation data.
 
 The Modelling_Prediction.ipynp notebook contains the training of 3 different models, Decision Tree Classifier, Multi-Layer Perceptron (MLP), and Gradient Boosting Classifier.
+
+## Requirments:
+
+1) Tensorflow
+2) Sklearn
+3) Pandas
+4) Numpy
+5) Keras-tuner
